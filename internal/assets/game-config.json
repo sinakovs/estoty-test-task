@@ -1,0 +1,10 @@
+{
+  "welcome_message": "Welcome to the Estoty Nakama project!",
+  "xp_rate": 1.25,
+  "rarity_options": [
+    "common",
+    "rare",
+    "epic",
+    "legendary"
+  ]
+}
