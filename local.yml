@@ -1,0 +1,14 @@
+name: "nakama1"
+data_dir: "/nakama/data"
+
+logger:
+  level: "DEBUG"
+
+runtime:
+  path: "/nakama/data/modules"
+
+session:
+  token_expiry_sec: 7200
+
+console:
+  port: 7351
